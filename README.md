@@ -7,7 +7,7 @@ https://www.geeksforgeeks.org/largest-sum-contiguous-subarray
 
 
 
-[Ques2](https://github.com/eshaanmangal/CleanCoding/tree/master/src/main/java/com/training/cleancoding/ques2) Merge two soerted arrays
+[Ques2](https://github.com/eshaanmangal/CleanCoding/tree/master/src/main/java/com/training/cleancoding/ques2) Merge two sorted arrays
 
 https://www.geeksforgeeks.org/merge-two-sorted-arrays
 
