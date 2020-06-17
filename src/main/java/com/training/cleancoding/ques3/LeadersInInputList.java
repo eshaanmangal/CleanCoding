@@ -10,10 +10,9 @@ import java.util.List;
 
 public class LeadersInInputList {
 
-    private final List<Integer> leadersInInputList = new ArrayList<>();
-
-    public List<Integer> getLeadersInputList(List <Integer> inputList)
+    public List<Integer> getLeadersInputList( List <Integer> inputList)
     {
+        List<Integer> leadersInInputList = new ArrayList<>();
         // Maximum element from right will be last element of the Input List
         int maximumElementFromRight =  inputList.get(inputList.size()-1);
         leadersInInputList.add(maximumElementFromRight);
@@ -28,7 +27,6 @@ public class LeadersInInputList {
                 leadersInInputList.add(maximumElementFromRight);
             }
         }
-
         return leadersInInputList;
     }
 }
